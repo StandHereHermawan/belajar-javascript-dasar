@@ -24,6 +24,8 @@ console.info(`Counter: ${counter}`);
  * Kode: Global Scope Part End.
  */
 
+
+
 /**
  * Kode: Local scope Part Start.
  */
@@ -47,6 +49,8 @@ second();
 /**
  * Kode: Local scope Part ends.
  */
+
+
 
 /**
  * Kode: Nested Function Scope start.
